@@ -164,8 +164,7 @@ IMPORTANT: The project was created in UBUNTU 14.04.3 LTS and Python 3.4.3.
 
 ## Team
 
-<a href="https://github.com/mecomonteshbtn">`mecomonteshbtn`</a>
-<a href="https://github.com/Charliemur2">`Charliemur2`</a>
+<a href="https://github.com/enochneier">`Enochneier`</a>
 
 
 ---
